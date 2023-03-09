@@ -7,4 +7,7 @@ package com.atguigu.git;
  * @version: 1.9
  */
 public class gitTest {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
